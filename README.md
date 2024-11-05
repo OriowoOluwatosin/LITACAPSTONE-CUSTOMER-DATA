@@ -151,7 +151,16 @@ Excel Customers Data 2
     GROUP BY canceled
 
 
+![image](https://github.com/user-attachments/assets/00f20e8a-d233-4957-b9fc-4f6c0ba1dfbc)
 
 
+
+![image](https://github.com/user-attachments/assets/9714605d-ee3e-4991-97ef-64479c3a789b)
+
+
+![image](https://github.com/user-attachments/assets/6b1900fa-81e8-4787-9cbb-e2c1b9436add)
+
+
+![image](https://github.com/user-attachments/assets/b0cb146c-492f-4f0d-ad4a-f94071e22646)
 
 
