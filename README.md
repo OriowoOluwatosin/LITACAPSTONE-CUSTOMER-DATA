@@ -188,6 +188,14 @@ Also,make the benefits known to the customers especially to curate more sales an
 
 
 **Subscriptions Optimization:** Make the most effective use of the subscription trend by making basic subscriptions more available.
-Rebraning of Premium and Standard subscription type to fit duly into the market and target influential and ostentaneous customers.
+Rebraning of Premium and Standard subscription type to fit duly into the market and target influential,luxurious and decadent customers who are always ready to spend on luxury.
+
 ### CONCLUSION
+
+Premium and Standard subscriptions need more focus and attention on
+
+-boosting revenue through marketing strategies
+-studying market trends within the region to adequately decode the highest-selling subscription type in the region.
+-arousing the inquisitiveness of its target customers.
+
 
