@@ -119,7 +119,7 @@ Excel Customers Data 2
 
 #### SQL Queries
 
-  1. select Region, count (CustomerID) as Region_customers from [dbo].[Customer data sec]
+  1. ~~~select Region, count (CustomerID) as Region_customers from [dbo].[Customer data sec]
      GROUP BY Region
   2. select subscriptionType, count (CustomerID) as cust_subscription from [dbo].[Customer data sec]
      Group by SubscriptionType
@@ -163,11 +163,11 @@ Excel Customers Data 2
 
 ![image](https://github.com/user-attachments/assets/b0cb146c-492f-4f0d-ad4a-f94071e22646)
 
-DASH BOARD OVERVIEW WITH POWER BI:
+### DASHBOARD OVERVIEW WITH POWER BI:
 
 ![image](https://github.com/user-attachments/assets/7241d4ef-d440-43d9-9e43-c789860232d9)
 
-### INSIGHT GENERATION:
+### INSIGHTS GENERATION:
 
 **Insights on Revenue for Subscription Type**
 
@@ -178,7 +178,7 @@ Premium: This Subscription has a bit low patronage with revenue 16,899,064, cust
 Standard: This subscription revenue is relatively close to premium with a revenue of 16,864,376, customers having interest in this subscription are almost that of premium.
 
 
-### RECOMMENDATION
+### RECOMMENDATION:
 
 
 **Subscription Comparison:** Implement targeted marketing strategies, campaigns, adverts and sensitization to create more awareness about premium and standard subscriptions.
@@ -190,7 +190,7 @@ Also,make the benefits known to the customers especially to curate more sales an
 **Subscriptions Optimization:** Make the most effective use of the subscription trend by making basic subscriptions more available.
 Rebraning of Premium and Standard subscription type to fit duly into the market and target influential,luxurious and decadent customers who are always ready to spend on luxury.
 
-### CONCLUSION
+### CONCLUSION:
 
 Premium and Standard subscriptions need more focus and attention on
 
