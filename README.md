@@ -61,10 +61,13 @@ Revenue: The income of each subscription.
 
 ### STATISTICS ABOUT THE DATA:
 
-Number of Unique Customers: 33,787
-Subscription Type: 3
-Total Revenue: 67,540,175
-Total Region: 4
+- Number of Unique Customers: 33,787
+
+- Subscription Type: 3
+
+- Total Revenue: 67,540,175
+  
+- Total Region: 4
 
 ### METHODOLOGY:
 
