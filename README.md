@@ -169,7 +169,25 @@ DASH BOARD OVERVIEW WITH POWER BI:
 
 ### INSIGHT GENERATION:
 
+**Insights on Revenue for Subscription Type**
+
+Basic: This Subscription Type leads  as it generates more revenue, with 33,776,735.
+This indicates potentially larger transaction values per sale. 
+Giving a clear confirmation that customers prefer the Basic subscription type.
+Premium: This Subscription has a bit low patronage with revenue 16,899,064, customers have low interest in this kind of subscription.
+Standard: This subscription revenue is relatively close to premium with a revenue of 16,864,376, customers having interest in this subscription are almost that of premium.
+
+
 ### RECOMMENDATION
 
+
+**Subscription Comparison:** Implement targeted marketing strategies, campaigns, adverts and sensitization to create more awareness about premium and standard subscriptions.
+A discounted price should be tagged on the other subscription type packages(premium and standard).
+
+Also,make the benefits known to the customers especially to curate more sales and generate more revenue
+
+
+**Subscriptions Optimization:** Make the most effective use of the subscription trend by making basic subscriptions more available.
+Rebraning of Premium and Standard subscription type to fit duly into the market and target influential and ostentaneous customers.
 ### CONCLUSION
 
