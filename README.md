@@ -154,13 +154,14 @@ Excel Customers Data 2
      GROUP BY region
      ORDER BY canceled_sub DESC
   
-     ~~~SELECT region,
+    ~~~SELECT region,
      COUNT(*) AS canceled_sub
      FROM [dbo].[Customer data sec]
      WHERE canceled = 0
      GROUP BY region
      ORDER BY canceled_sub DESC
   
+
   8. ~~~SELECT canceled, 
     COUNT(*) AS total_subscriptions
     FROM [dbo].[Customer data sec]
