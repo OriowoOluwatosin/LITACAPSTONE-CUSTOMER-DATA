@@ -2,25 +2,25 @@
 
 OUTLINE
 
-PROJECT OVERVIEW:
+[ PROJECT OVERVIEW: ](project-view)
 
-DATA DESCRIPTION:
+[ DATA DESCRIPTION: ](data-description)
 
-DASH BOARD REVIEW:
+[ DASH BOARD REVIEW: ](dash-board-review)
 
-STATISTICS ABOUT THE DATASET:
+[ STATISTICS ABOUT THE DATASET: ](statistics-about-the-dataset)
 
-METHODOLOGY:
+[ METHODOLOGY: ](methodogy)
 
-DATA ANALYSIS:
+[ DATA ANALYSIS: ](data-analysis)
 
-DASHBOARD OVERVIEW WITH POWERBI:
+ [ DASHBOARD OVERVIEW WITH POWERBI: ](dashboard-overview-with-powerbi)
 
-INSIGHTS GENERATION:
+[ INSIGHTS GENERATION: ](insight-generation)
 
-RECOMMENDATION:
+[ RECOMMENDATION: ](recommendation)
 
-CONCLUSION:
+[ CONCLUSION: ](conclusion)
 
 
 ### PROJECT OVERVIEW:
@@ -163,4 +163,13 @@ Excel Customers Data 2
 
 ![image](https://github.com/user-attachments/assets/b0cb146c-492f-4f0d-ad4a-f94071e22646)
 
+DASH BOARD OVERVIEW WITH POWER BI:
+
+![image](https://github.com/user-attachments/assets/7241d4ef-d440-43d9-9e43-c789860232d9)
+
+### INSIGHT GENERATION:
+
+### RECOMMENDATION
+
+### CONCLUSION
 
