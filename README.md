@@ -102,4 +102,17 @@ Power BI to create dashboards using various charts (PieChart and clustered Colum
 
 ![image](https://github.com/user-attachments/assets/1200022f-7cd9-49d2-a737-bc86cffe6c0b)
 
+#### Excel Chart
+
+Excel Customers Data 3 
+
+![image](https://github.com/user-attachments/assets/6f058e38-9698-49a4-b2be-48872e5ecbdc)
+
+Excel Customers Data 2
+
+![image](https://github.com/user-attachments/assets/deadcb91-6856-4749-87b2-58ef598f2b4f)
+
+
+
+
 
